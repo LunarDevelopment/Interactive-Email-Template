@@ -9,8 +9,10 @@ All image names / formats / sizing / placement are *not* changable, for the fors
 ## Obstacles
 - The html of this email is emmense and complex, almost beyond editing any of it.
 - To strip this template down to build it back up to hold more tabs or less tabs may take as long as building from scratch
+
 ## Things the designer will need to do:
 - Produce all images listed below product image (including text within images)
+
 # Links & Text
 - Find replace all `GENERIC-HREF-LINK-PLACEHOLDER` with website URL 
 - Find Replace the following with your own text:
@@ -20,15 +22,20 @@ All image names / formats / sizing / placement are *not* changable, for the fors
   * `PROD_4_TEXT`
   * `PROD_5_TEXT`
   * `PROD_6_TEXT`
+  
 # Image Dimentions 
+
 ## Formatting: 
 {{fie name}}.{{format required}} = {{image dimentions}} = {{description of image role }}
+
 ### Logo
 - logo_mobile.jpg = 40 x 40 = Logo for Mobile Screen
 - logo.jpg = 70 x 70 = Logo for Desktop devices and large tablets
+
 ### Buttons 
 - Buy Now.jpg = 94 x 29 
 - Learn More.jpg = 102 x 28
+
 ### Desktop Content 
 - header_desktop_banner.jpg = 416 x 117 = the top banner image adjacent to logo 
 - header_desktop_left_pad.jpg = 21 x 117 = filler to the left of the desktop logo 
@@ -60,6 +67,7 @@ All image names / formats / sizing / placement are *not* changable, for the fors
 - rescue_01.jpg = 20 × 115
 - rescue_02.jpg = 259 × 115
 - rescue_03.jpg = 361 × 115
+
 ### Mobile Content 
 - header_mob_01.jpg = 320 x 20
 - header_mob_02.jpg = 11 x 44
@@ -93,6 +101,7 @@ All image names / formats / sizing / placement are *not* changable, for the fors
 - prod_mob_thumb_06.jpg = 45 x 45
 - prod_mob_thumb_hover_06.jpg = 45 x 45
 - rescue-bg_mob.jpg = 320 x 133 
+
 ### Fallbacks 
 - fallback_prod_hero.jpg = 640 x 256
 - fallback_prod_hero_02.jpg = 640 x 77
